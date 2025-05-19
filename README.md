@@ -48,18 +48,18 @@ Each header contributes a different weight to the final score.
    ```bash
    git clone https://github.com/Haruki993/VulnDetector.git
    cd VulnDetector
-``
+   
 2. **(Optional)** Create a virtual environment:
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+   
 3. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
-``
+   
 ## 🛠️ Usage
 
 Run the script:
