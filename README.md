@@ -50,7 +50,7 @@ Each header contributes a different weight to the final score.
    cd VulnDetector
 ````
 
-2. **(Optional)** Create a virtual environment:
+2. **(Optional)Create a virtual environment**:
 
    ```bash
    python -m venv venv
