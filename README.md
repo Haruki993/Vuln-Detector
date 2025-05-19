@@ -114,5 +114,3 @@ Let's make the web a bit safer — one header at a time.
 
 This tool is intended for **educational and ethical** use only.
 Do not scan websites without proper authorization.
-
-````
